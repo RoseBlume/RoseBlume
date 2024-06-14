@@ -14,7 +14,7 @@
 | Name | Description | State |
 |------|-------------|-------|
 | [Rosary](https://github.com/RoseBlume/Rosary) | A Bible App Using the Tauri Framework | Released |
-| [Bishop Tauri Template](https://github.com/ | A simple template for highschool students to learn how to develop apps with html and css| Released |
+| [Bishop Tauri Template](https://github.com/RoseBlume/Bishop-Tauri-Template | A simple template for highschool students to learn how to develop apps with html and css| Released |
 <!--
 **RoseBlume/RoseBlume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
