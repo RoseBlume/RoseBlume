@@ -1,4 +1,6 @@
-## **\ James Rose \**
+<div align="center">
+  
+## ** James Rose **
 ###  Contributions
 | Name | Description |
 |------|----------|
