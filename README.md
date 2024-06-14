@@ -12,7 +12,7 @@
 
 ### Projects
 | Name | Description |
-|------|----------|
+|-----|---------|
 | [Rosary](https://github.com/RoseBlume/Rosary) | A Bible App Using the Tauri Framework |
 | [Bishop Tauri Template](https://github.com/RoseBlume/Bishop-Tauri-Template) | A simple template for highschool students to learn how to develop apps with html and css |
 <!--
