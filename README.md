@@ -1,4 +1,4 @@
-## James Rose
+## **\ James Rose \**
 ###  Contributions
 | Name | Description |
 |------|----------|
