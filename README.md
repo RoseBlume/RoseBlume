@@ -4,7 +4,7 @@
 ### Organizations
 | Name | Description |
 |------|-------------|
-| [Nobile Matrices](https://github.com/MobileMatrices) | An Organization that works on porting UI's and providing Images to mobile linux distributions |
+| [Mobile Matrices](https://github.com/MobileMatrices) | An Organization that works on porting UI's and providing Images to mobile linux distributions |
 ###  Contributions
 | Name | Description |
 |------|-------------| 
@@ -16,7 +16,7 @@
 
 ### Projects
 | Name | Description |
-|----|---------------|
+|------|-------------|
 | [Rosary](https://github.com/RoseBlume/Rosary) | A Bible App Using the Tauri Framework |
 | [Bishop Tauri Template](https://github.com/RoseBlume/Bishop-Tauri-Template) | A simple template for highschool students to learn how to develop apps with html and css |
 <!--
