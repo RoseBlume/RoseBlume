@@ -1,10 +1,14 @@
 <div align="center">
   
 ## James Rose
+### Organizations
+| Name | Description |
+|------|-------------|
+| [Nobile Matrices](https://github.com/MobileMatrices) | An Organization that works on porting UI's and providing Images to mobile linux distributions |
 ###  Contributions
 | Name | Description |
-|------|----------|  
-| [Tauri Documentation]([https://github.com/RoseBlume/Rosary](https://github.com/tauri-apps/tauri-docs)) | Documentation on how to distribute Tauri Apps using the [AUR](https://aur.archlinux.org), [Flathub](https://flathub.org), and [Snapcraft](https://snapcraft.io) |
+|------|-------------| 
+| [Tauri Documentation](https://github.com/RoseBlume/Rosary](https://github.com/tauri-apps/tauri-docs)) | Documentation on how to distribute Tauri Apps using the [AUR](https://aur.archlinux.org), [Flathub](https://flathub.org), and [Snapcraft](https://snapcraft.io) |
 | [Pacstall](https://github.com/pacstall/pacstall-programs) | Added The Rosary Bible App to Pacstall |
 | [Lugsoles Bible App](https://github.com/Lugsole/net.lugsole.bible_gui) | Improved Metainfo |
 | [Awesome Tauri Apps](https://github.com/tauri-apps/awesome-tauri) | Added the Rosary Bible App and Bishop Template |
@@ -12,7 +16,7 @@
 
 ### Projects
 | Name | Description |
-|----|--------|
+|----|---------------|
 | [Rosary](https://github.com/RoseBlume/Rosary) | A Bible App Using the Tauri Framework |
 | [Bishop Tauri Template](https://github.com/RoseBlume/Bishop-Tauri-Template) | A simple template for highschool students to learn how to develop apps with html and css |
 <!--
